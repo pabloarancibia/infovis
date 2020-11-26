@@ -31,11 +31,9 @@ Fueron seleccionados estos meses como para generalizar las distintas epocas del 
 ## Herramientas
 Para la realización de los gráficos se utilizarón las siguientes herramientas:
 
-[[1]Tableau][1]
+[Tableau](https://www.tableau.com/es-es "Tableau")
 
-[1]: https://www.tableau.com/es-es "**Tableau**"
-[[2]Flourish][2]
-[2]: https://app.flourish.studio/ "Flourish"
+[Flourish](https://app.flourish.studio/ "Flourish")
 
 ## Gráficos Tableau
 ###### Suma de Gastos en 4 meses
