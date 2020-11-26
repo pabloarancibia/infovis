@@ -1,7 +1,11 @@
 # INFOVIS
 ##### Visualizacion de datos ITBA
 
-Gráficos de datos mensuales.
+Gráficos de gastos mensuales (ENE-MAY-AGO-NOV) de 2020.
+Realizados para la Diplomatura en Ciencia de Datos del ITBA, asignatura Visualización de la Información.
+
+Alumno: Pablo Arancibia
+Docente: Diego Ariel Aizemberg
 
 ## Datos
 Los datos se obtuvieron de una planilla realizada en Google Docs. La misma se exportó a Excel, se seleccionaron las categorías a mostrar y se agruparon categorías similares.
