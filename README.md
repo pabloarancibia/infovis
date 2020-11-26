@@ -1,5 +1,5 @@
 # INFOVIS
-###### Visualizacion de datos ITBA
+##### Visualizacion de datos ITBA
 
 Gráficos de datos mensuales.
 
@@ -36,18 +36,18 @@ Para la realización de los gráficos se utilizarón las siguientes herramientas
 [Flourish](https://app.flourish.studio/ "Flourish")
 
 ## Gráficos Tableau
-###### Suma de Gastos en 4 meses
+##### Suma de Gastos en 4 meses
 Corresponde a la suma total de cada categoría durante los meses seleccionados. Se puede apreciar la deferencia en los gastos totales de cada categoría.
 
-###### Variación Mensual
+##### Variación Mensual
 Corresponde al total de cada categoría diferenciados por cada mes seleccionado.
 Se puede apreciar la variación de gastos en cada categoría.
 
 
 [Perfil Tableau](https://public.tableau.com/profile/pablo.arancibia5444#!/ "Perfil Tableau")
 
-###### Gráfico Flourish
-###### Gráficos Circulares
+## Gráfico Flourish
+##### Gráficos Circulares
 Se realizó un gráfico circular por cada mes.
 Se puede apreciar el porcentaje aproximado que ocupa cada categoría en la totalidad de los gastos por mes.
 
