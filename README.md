@@ -56,3 +56,9 @@ Se realizó un gráfico circular por cada mes.
 Se puede apreciar el porcentaje aproximado que ocupa cada categoría en la totalidad de los gastos por mes.
 
 [Perfil Flourish](https://app.flourish.studio/@pabloarancibia.dw "Perfil Flourish")
+
+
+#CLASES
+Clase 4 
+Trabajamos con Vega
+[Trabajo Vega](https://pabloarancibia.github.io/infovis/twitters.html "Vega")
