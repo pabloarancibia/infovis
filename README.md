@@ -58,7 +58,15 @@ Se puede apreciar el porcentaje aproximado que ocupa cada categoría en la total
 [Perfil Flourish](https://app.flourish.studio/@pabloarancibia.dw "Perfil Flourish")
 
 
-#CLASES
-Clase 4 
-Trabajamos con Vega
+# CLASES
+
+###### Clase 3 
+Trabajamos con Flourish.
+[Trabajo Flourish](https://pabloarancibia.github.io/infovis/flourish.html "Flourish")
+
+###### Clase 4 
+Trabajamos con Vega.
 [Trabajo Vega](https://pabloarancibia.github.io/infovis/twitters.html "Vega")
+
+
+
