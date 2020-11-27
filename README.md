@@ -61,7 +61,7 @@ Se puede apreciar el porcentaje aproximado que ocupa cada categoría en la total
 # CLASES
 
 ###### Trabajo con Colab
-[Trabajo Flourish](https://colab.research.google.com/drive/17nxZZHBjemKWg-W6ARUryNvw7Sw_9vlm?usp=sharing "Colab")
+[Trabajo Colab](https://colab.research.google.com/drive/1b8eVeZMDbdE5Cs2N1QWwule6PMsFGW0f?usp=sharing "Colab")
 
 ###### Clase 3 
 Trabajamos con Flourish.
