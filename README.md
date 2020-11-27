@@ -77,6 +77,9 @@ Trabajamos con Vega.
 ###### RAW Graphs
 [Raw](https://rawgraphs.io/ "Raw")
 
+###### Tableau
+Trabajamos con Tableau Desktop y publicamos algunos trabajos en Tableau Public:
+[Perfil Tableau](https://public.tableau.com/profile/pablo.arancibia5444#!/ "Perfil Tableau")
 
 
 
