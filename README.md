@@ -58,18 +58,25 @@ Se puede apreciar el porcentaje aproximado que ocupa cada categoría en la total
 [Perfil Flourish](https://app.flourish.studio/@pabloarancibia.dw "Perfil Flourish")
 
 
-# CLASES
+# TRABAJOS EN CLASE Y HERRAMIENTAS
 
-###### Trabajo con Colab
+###### Colab
 [Trabajo Colab](https://colab.research.google.com/drive/1b8eVeZMDbdE5Cs2N1QWwule6PMsFGW0f?usp=sharing "Colab")
 
-###### Clase 3 
+###### Flourish
 Trabajamos con Flourish.
 [Trabajo Flourish](https://pabloarancibia.github.io/infovis/flourish.html "Flourish")
 
-###### Clase 4 
+###### Vega Lite 
 Trabajamos con Vega.
 [Trabajo Vega](https://pabloarancibia.github.io/infovis/twitters.html "Vega")
+
+###### Observables
+[Observables](https://observablehq.com/@pabloarancibia "observables")
+
+###### RAW Graphs
+[Raw](https://rawgraphs.io/ "Raw")
+
 
 
 
