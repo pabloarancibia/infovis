@@ -84,5 +84,6 @@ Trabajamos con Vega.
 Trabajamos con Tableau Desktop y publicamos algunos trabajos en Tableau Public:
 [Perfil Tableau](https://public.tableau.com/profile/pablo.arancibia5444#!/ "Perfil Tableau")
 
+[Trabajo w46 Tableau](https://pabloarancibia.github.io/infovis/w46_tableau.html "Trabajo w46 Tableau")
 
 
