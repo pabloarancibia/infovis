@@ -7,6 +7,11 @@ Realizados para la Diplomatura en Ciencia de Datos del ITBA, asignatura Visualiz
 Alumno: Pablo Arancibia
 Docente: Diego Ariel Aizemberg
 
+## Html
+HTML con los tres gráficos realizados:
+
+[Trabajo Gastos Mensuales](https://pabloarancibia.github.io/infovis/gastosmensuales.html "Trabajo Gastos Mensuales")
+
 ## Datos
 Los datos se obtuvieron de una planilla realizada en Google Docs. La misma se exportó a Excel, se seleccionaron las categorías a mostrar y se agruparon categorías similares.
 
@@ -48,14 +53,15 @@ Corresponde al total de cada categoría diferenciados por cada mes seleccionado.
 Se puede apreciar la variación de gastos en cada categoría.
 
 
-[Perfil Tableau](https://public.tableau.com/profile/pablo.arancibia5444#!/ "Perfil Tableau")
+[Trabajo gastos Tableau](https://pabloarancibia.github.io/infovis/gastos_tableau.html "Trabajo gastos Tableau")
 
 ## Gráfico Flourish
 ##### Gráficos Circulares
 Se realizó un gráfico circular por cada mes.
 Se puede apreciar el porcentaje aproximado que ocupa cada categoría en la totalidad de los gastos por mes.
 
-[Perfil Flourish](https://app.flourish.studio/@pabloarancibia.dw "Perfil Flourish")
+[Trabajo Gastos Flourish](https://pabloarancibia.github.io/infovis/circular_flourish.html "Trabajo Gastos Flourish")
+
 
 
 # TRABAJOS EN CLASE Y HERRAMIENTAS
@@ -65,7 +71,10 @@ Se puede apreciar el porcentaje aproximado que ocupa cada categoría en la total
 
 ### Flourish
 Trabajamos con Flourish.
-[Trabajo Flourish](https://pabloarancibia.github.io/infovis/flourish.html "Flourish")
+
+[Perfil Flourish](https://app.flourish.studio/@pabloarancibia.dw "Perfil Flourish")
+
+[Trabajo w46 Flourish](https://pabloarancibia.github.io/infovis/w46_flourish.html "Trabajo w46 Flourish")
 
 ### Vega Lite 
 Trabajamos con Vega.
@@ -86,5 +95,7 @@ Trabajamos con Tableau Desktop y publicamos algunos trabajos en Tableau Public:
 [Perfil Tableau](https://public.tableau.com/profile/pablo.arancibia5444#!/ "Perfil Tableau")
 
 [Trabajo w46 Tableau](https://pabloarancibia.github.io/infovis/w46_tableau.html "Trabajo w46 Tableau")
+
+[Trabajo gastos Tableau](https://pabloarancibia.github.io/infovis/gastos_tableau.html "Trabajo gastos Tableau")
 
 
