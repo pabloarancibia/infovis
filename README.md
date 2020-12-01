@@ -103,6 +103,14 @@ Trabajamos con Tableau Desktop y publicamos algunos trabajos en Tableau Public:
 
 [Trabajo Mapa Tableau](https://pabloarancibia.github.io/infovis/mapa_tableau.html "Trabajo Mapa Tableau")
 
+### Markdown
+
+[Wiki Markdown](https://en.wikipedia.org/wiki/Markdown "Wiki Markdown")
+
+[Guía Markdown](https://guides.github.com/features/mastering-markdown/ "Guía Markdown")
+
+[Pdf Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "Pdf Markdown")
+
 
 
 
