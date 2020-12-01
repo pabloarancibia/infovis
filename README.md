@@ -99,6 +99,10 @@ Trabajamos con Tableau Desktop y publicamos algunos trabajos en Tableau Public:
 
 [Trabajo w46 Tableau](https://pabloarancibia.github.io/infovis/w46_tableau.html "Trabajo w46 Tableau")
 
-[Trabajo gastos Tableau](https://pabloarancibia.github.io/infovis/gastos_tableau.html "Trabajo gastos Tableau")
+[Trabajo Gastos Tableau](https://pabloarancibia.github.io/infovis/gastos_tableau.html "Trabajo Gastos Tableau")
+
+[Trabajo Mapa Tableau](https://pabloarancibia.github.io/infovis/mapa_tableau.html "Trabajo Mapa Tableau")
+
+
 
 
