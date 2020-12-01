@@ -76,8 +76,11 @@ Trabajamos con Flourish.
 
 [Trabajo w46 Flourish](https://pabloarancibia.github.io/infovis/w46_flourish.html "Trabajo w46 Flourish")
 
+[Trabajo Gastos Flourish](https://pabloarancibia.github.io/infovis/circular_flourish.html "Trabajo Gastos Flourish")
+
 ### Vega Lite 
 Trabajamos con Vega.
+
 [Trabajo Vega](https://pabloarancibia.github.io/infovis/twitters.html "Vega")
 
 ### Observables
