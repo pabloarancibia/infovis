@@ -60,27 +60,27 @@ Se puede apreciar el porcentaje aproximado que ocupa cada categoría en la total
 
 # TRABAJOS EN CLASE Y HERRAMIENTAS
 
-###### Colab
+#### Colab
 [Trabajo Colab](https://colab.research.google.com/drive/1b8eVeZMDbdE5Cs2N1QWwule6PMsFGW0f?usp=sharing "Colab")
 
-###### Flourish
+#### Flourish
 Trabajamos con Flourish.
 [Trabajo Flourish](https://pabloarancibia.github.io/infovis/flourish.html "Flourish")
 
-###### Vega Lite 
+#### Vega Lite 
 Trabajamos con Vega.
 [Trabajo Vega](https://pabloarancibia.github.io/infovis/twitters.html "Vega")
 
-###### Observables
+#### Observables
 [Observables](https://observablehq.com/@pabloarancibia "observables")
 
-###### RAW Graphs
+#### RAW Graphs
 [Raw](https://rawgraphs.io/ "Raw")
 
 [Trabajo Raw](https://pabloarancibia.github.io/infovis/w46_rawgraph.html "Raw")
 
 
-###### Tableau
+#### Tableau
 Trabajamos con Tableau Desktop y publicamos algunos trabajos en Tableau Public:
 [Perfil Tableau](https://public.tableau.com/profile/pablo.arancibia5444#!/ "Perfil Tableau")
 
